@@ -8,7 +8,12 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=false&width=700&lines=🟢+Open+to+Remote+SWE+Roles;🏆+2x+Hackathon+Winner+%7C+3+Client+Projects+Delivered;⚡+Builder+who+ships+fast+and+figures+it+out;♟️+Chess+Player+%7C+🛵+Late+Night+Scooty+Thinker)](https://github.com/VanshArora01)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=false&width=700&lines=🟢+Open+to+Remote+SWE+Roles;⚡+Builder+who+ships+fast+and+figures+it+out;♟️+Chess+Player+%7C+🛵+Late+Night+Scooty+Thinker)](https://github.com/VanshArora01)
+
+<br/>
+
+![Hackathon](https://img.shields.io/badge/🏆_2x_HACKATHON_WINNER-Champion-FFD700?style=for-the-badge&labelColor=0a192f)
+![Client Work](https://img.shields.io/badge/💼_3_CLIENT_PROJECTS-Delivered-00b4d8?style=for-the-badge&labelColor=0a192f)
 
 <br/>
 
@@ -188,11 +193,17 @@ Rapid prototype built under hackathon pressure
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VanshArora01&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+![Hackathon Winner](https://img.shields.io/badge/🏆_Hackathon_Winner-2x_Champion-00b4d8?style=for-the-badge&labelColor=0a192f)
+![Client Projects](https://img.shields.io/badge/💼_Client_Projects-3_Delivered-00b4d8?style=for-the-badge&labelColor=0a192f)
+![Status](https://img.shields.io/badge/🟢_Status-Open_to_Remote-00b4d8?style=for-the-badge&labelColor=0a192f)
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=VanshArora01&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="90%"/>
 
 </div>
 
@@ -202,9 +213,9 @@ Rapid prototype built under hackathon pressure
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VanshArora01&show_icons=true&theme=nord&hide_border=true&bg_color=0a192f&title_color=00b4d8&icon_color=00b4d8&text_color=ccd6f6&count_private=true&rank_icon=github&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VanshArora01&show_icons=true&theme=nord&hide_border=true&bg_color=0a192f&title_color=00b4d8&icon_color=00b4d8&text_color=ccd6f6&count_private=true&rank_icon=github" height="180"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshArora01&layout=compact&theme=nord&hide_border=true&bg_color=0a192f&title_color=00b4d8&text_color=ccd6f6&langs_count=6" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshArora01&layout=compact&theme=nord&hide_border=true&bg_color=0a192f&title_color=00b4d8&text_color=ccd6f6&langs_count=6&hide=jupyter%20notebook" height="180"/>
 
 </div>
 
@@ -266,14 +277,44 @@ Rapid prototype built under hackathon pressure
 
 <table>
 <tr>
-<td>
+<td align="center" width="25%">
 
-```
-⚔️  DSA in JavaScript     ██████████░░░░░░░░░░   Building consistency
-🏗️  System Design          ████░░░░░░░░░░░░░░░░   Early stages
-🌐  Remote Job Prep        ████████████░░░░░░░░   Getting close
-🧠  Advanced ML            ███░░░░░░░░░░░░░░░░░   Just started
-```
+### ⚔️
+**DSA in JavaScript**
+
+![Progress](https://img.shields.io/badge/Progress-50%25-00b4d8?style=flat-square&labelColor=0a192f)
+
+*Building daily consistency*
+
+</td>
+<td align="center" width="25%">
+
+### 🏗️
+**System Design**
+
+![Progress](https://img.shields.io/badge/Progress-20%25-0077b6?style=flat-square&labelColor=0a192f)
+
+*Early stages*
+
+</td>
+<td align="center" width="25%">
+
+### 🌐
+**Remote Job Prep**
+
+![Progress](https://img.shields.io/badge/Progress-60%25-03045e?style=flat-square&labelColor=0a192f)
+
+*Getting close*
+
+</td>
+<td align="center" width="25%">
+
+### 🧠
+**Advanced ML**
+
+![Progress](https://img.shields.io/badge/Progress-15%25-90e0ef?style=flat-square&labelColor=0a192f)
+
+*Just started*
 
 </td>
 </tr>
