@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:03045e,30:0077b6,60:00b4d8,100:90e0ef&height=280&section=header&text=Vansh%20Arora&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%202x%20Hackathon%20Winner%20%F0%9F%8F%86&descAlignY=60&descSize=20&descColor=caf0f8" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:03045e,30:0077b6,60:00b4d8,100:90e0ef&height=280&section=header&text=Vansh%20Arora&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%202x%20Hackathon%20Winner%20%F0%9F%8F%86&descAlignY=60&descSize=20&descColor=caf0f8"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:caf0f8,30:90e0ef,60:00b4d8,100:0077b6&height=280&section=header&text=Vansh%20Arora&fontSize=85&fontColor=03045e&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%202x%20Hackathon%20Winner%20%F0%9F%8F%86&descAlignY=60&descSize=20&descColor=03045e"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:03045e,30:0077b6,60:00b4d8,100:90e0ef&height=280&section=header&text=Vansh%20Arora&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%202x%20Hackathon%20Winner%20%F0%9F%8F%86&descAlignY=60&descSize=20&descColor=caf0f8" width="100%" alt="Vansh Arora — Full Stack • AI Builder • 2x Hackathon Winner"/>
+</picture>
 
 </div>
 
@@ -60,7 +64,7 @@
 </td>
 <td width="45%" align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding GIF"/>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="100%" alt="Coding GIF"/>
 
 </td>
 </tr>
@@ -369,6 +373,10 @@ No "maybe later".
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,50:0077b6,100:00b4d8&height=150&section=footer&text=Let's%20build%20something%20real.&fontSize=26&fontColor=caf0f8&animation=fadeIn&fontAlignY=65" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,50:0077b6,100:00b4d8&height=150&section=footer&text=Let's%20build%20something%20real.&fontSize=26&fontColor=caf0f8&animation=fadeIn&fontAlignY=65"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:caf0f8,50:90e0ef,100:00b4d8&height=150&section=footer&text=Let's%20build%20something%20real.&fontSize=26&fontColor=03045e&animation=fadeIn&fontAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,50:0077b6,100:00b4d8&height=150&section=footer&text=Let's%20build%20something%20real.&fontSize=26&fontColor=caf0f8&animation=fadeIn&fontAlignY=65" width="100%" alt="Let's build something real."/>
+</picture>
 
 </div>
