@@ -1,14 +1,15 @@
 <div align="center">
 
+<!-- Top decorative wave — no text inside capsule-render (unreliable across themes) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:03045e,30:0077b6,60:00b4d8,100:90e0ef&height=280&section=header&text=Vansh%20Arora&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%202x%20Hackathon%20Winner%20%F0%9F%8F%86&descAlignY=60&descSize=20&descColor=caf0f8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:caf0f8,30:90e0ef,60:00b4d8,100:0077b6&height=280&section=header&text=Vansh%20Arora&fontSize=85&fontColor=03045e&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%202x%20Hackathon%20Winner%20%F0%9F%8F%86&descAlignY=60&descSize=20&descColor=03045e"/>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:03045e,30:0077b6,60:00b4d8,100:90e0ef&height=280&section=header&text=Vansh%20Arora&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%202x%20Hackathon%20Winner%20%F0%9F%8F%86&descAlignY=60&descSize=20&descColor=caf0f8" width="100%" alt="Vansh Arora — Full Stack • AI Builder • 2x Hackathon Winner"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,50:0077b6,100:00b4d8&height=160&section=header" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:03045e&height=160&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,50:0077b6,100:00b4d8&height=160&section=header" width="100%" alt="" />
 </picture>
 
-</div>
-
-<div align="center">
+<!-- Name as actual HTML — always visible in both light and dark mode -->
+<h1>🧑‍💻 Vansh Arora</h1>
+<h3>Full Stack &nbsp;•&nbsp; AI Builder &nbsp;•&nbsp; 2x Hackathon Winner 🏆</h3>
 
 <br/>
 
@@ -34,10 +35,6 @@
 </div>
 
 ---
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:0a192f&height=3&section=header" width="100%"/>
-</div>
 
 ## 👨‍💻 About Me
 
@@ -373,10 +370,13 @@ No "maybe later".
 
 <div align="center">
 
+<!-- Bottom decorative wave — no text inside capsule-render -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,50:0077b6,100:00b4d8&height=150&section=footer&text=Let's%20build%20something%20real.&fontSize=26&fontColor=caf0f8&animation=fadeIn&fontAlignY=65"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:caf0f8,50:90e0ef,100:00b4d8&height=150&section=footer&text=Let's%20build%20something%20real.&fontSize=26&fontColor=03045e&animation=fadeIn&fontAlignY=65"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,50:0077b6,100:00b4d8&height=150&section=footer&text=Let's%20build%20something%20real.&fontSize=26&fontColor=caf0f8&animation=fadeIn&fontAlignY=65" width="100%" alt="Let's build something real."/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,50:0077b6,100:00b4d8&height=120&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:03045e&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,50:0077b6,100:00b4d8&height=120&section=footer" width="100%" alt="" />
 </picture>
+
+**Let's build something real.** 🚀
 
 </div>
